@@ -1,0 +1,12 @@
+.success-message {
+    border: 1px solid #4caf50;
+    background-color: #d4edda;
+    color: #155724;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .success-message h3 {
+    margin-top: 0;
+  }
+  
